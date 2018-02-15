@@ -1,0 +1,28 @@
+.navbar {
+    color: white;
+    background-color: #6eaeda;
+    height: 130px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-header{
+    text-align: center;
+}
+
+.title{
+    position: fixed;
+    right: 2%;
+    top: 3%;
+} 
+
+.guessed{
+
+    position: absolute;
+    left: 80%;
+    bottom: 35%;
+}
+
+.scores{
+    position: fixed;
+    top: 3%;
+}
